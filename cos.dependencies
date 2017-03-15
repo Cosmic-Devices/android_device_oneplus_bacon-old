@@ -12,9 +12,10 @@
     "branch": "n7x-caf"
   },
   {
-    "repository": "lightning-kernel-bacon",
+    "remote": "github",
+    "repository": "nikhil18/lightning-kernel-bacon",
     "target_path": "kernel/oneplus/msm8974",
-    "branch": "n7.1-sultan"
+    "branch": "lightning-3.4-cam"
   },
   {
     "repository": "platform_external_sony_boringssl-compat",
