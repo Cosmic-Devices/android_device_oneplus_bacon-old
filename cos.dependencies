@@ -22,39 +22,9 @@
     "target_path": "external/sony/boringssl-compat"
   },
   {
-    "remote": "github",
-    "repository": "Cosmic-OS/platform_system_vold",
-    "target_path": "system/vold",
-    "branch": "n7.1-test"
-  },
-  {
-    "remote": "github",
-    "repository": "AgentFabulous/android_hardware_qcom_camera",
-    "target_path": "hardware/qcom/camera",
-    "branch": "working"
-  },
-  {
-    "remote": "github",
-    "repository": "Cosmic-OS/platform_frameworks_av",
-    "target_path": "frameworks/av",
-    "branch": "n7.1-test"
-  },
-  {
     "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch": "n7.1-test"
-  },
-  {
-    "remote": "github",
-    "repository" : "LineageOS/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom/audio-caf/msm8974",
-    "branch"     : "cm-14.1-caf-8974"
-  },
-  {
-    "remote": "github",
-    "repository" : "LineageOS/android_hardware_qcom_media",
-    "target_path": "hardware/qcom/media-caf/msm8974",
-    "branch"     : "cm-14.1-caf-8974"
   },
   {
     "remote": "github",
