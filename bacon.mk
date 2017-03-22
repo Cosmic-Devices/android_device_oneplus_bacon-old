@@ -18,7 +18,7 @@ $(call inherit-product-if-exists, $(QCPATH)/common/config/device-vendor.mk)
 endif
 
 # Magisk
-INCLUDE_MAGISK= true
+#INCLUDE_MAGISK= true
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay vendor/extra/overlays/phone-1080p
