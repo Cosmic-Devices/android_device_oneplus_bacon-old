@@ -34,9 +34,9 @@
   },
   {
     "remote": "github",
-    "repository" : "LineageOS/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch"     : "cm-14.1"
+    "repository" : "sultanxda/android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
+    "branch"     : "cm-13.0-sultan"
   },
   {
     "remote": "github",
