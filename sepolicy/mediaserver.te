@@ -1,3 +1,7 @@
 binder_call(mediaserver, audiod)
 # For text relocations in /system/vendor/lib/libmmjpeg.so
 allow mediaserver system_file:file execmod;
+
+binder_call(mediaserver, audiod)
+
+allow mediaserver camera_data_file:dir search;
