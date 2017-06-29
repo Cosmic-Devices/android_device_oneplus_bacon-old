@@ -68,8 +68,8 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8974 \
-    Snap
+    camera.msm8974.bacon \
+    Snap.bacon
 
 # Charger
 PRODUCT_PACKAGES += \
